@@ -1,0 +1,10 @@
+Criando arquivo no repositório online (GitHub) e passando para o Git:
+comando no Git Bash: git clone colarlink
+
+Criando arquivo no repositporio local e salvando no repositório online (GitHub:
+git status
+git add *
+git status
+git commit -m "mensagem coerente ao que está fszendo"
+git push origin main
+git status
