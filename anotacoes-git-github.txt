@@ -1,5 +1,5 @@
 Criando arquivo no repositório online (GitHub) e passando para o Git:
-comando no Git Bash: git clone colarlink
+comando no Git Bash: git clone colar link
 
 Criando arquivo no repositporio local e salvando no repositório online (GitHub:
 git status
